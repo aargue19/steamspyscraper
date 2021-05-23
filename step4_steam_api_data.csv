@@ -1,0 +1,477 @@
+app_id,pos_rev_num,neg_rev_num,usr_score,avg_pt_forever,avg_pt_2weeks,initial_price,current_price,ccu,lang_1,lang_2,lang_3,lang_4,lang_5,lang_6,lang_7,lang_8,lang_9,lang_10,genre_1,genre_2,genre_3,genre_4,genre_5
+706560,292,20,0,913,0,1499,1499,2,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,RPG,NA,NA,NA
+778240,1,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+626690,12103,3175,0,967,0,3999,3999,299,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Portuguese - Brazil,Russian,Simplified Chinese,Action,RPG,NA,NA,NA
+935940,0,3,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,Sports,NA,NA,NA
+929800,1,4,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,Simulation,Strategy,NA
+868360,3672,541,0,1294,15,2499,2499,545,English,French,German,Spanish - Spain,Czech,Portuguese - Brazil,Spanish - Latin America,Traditional Chinese,Russian,Turkish,Indie,Simulation,Strategy,NA,NA
+821260,5,4,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+688140,79,37,0,0,0,1999,1999,1,English,French,Italian,German,Spanish - Spain,Dutch,NA,NA,NA,NA,Casual,NA,NA,NA,NA
+913420,2,0,0,0,0,399,399,0,English,Simplified Chinese,Russian,Turkish,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+882700,2,0,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+389140,3150,218,0,219,0,1999,1999,29,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Japanese,Korean,Simplified Chinese,Traditional Chinese,Action,Casual,Indie,Racing,Sports
+534550,1857,171,0,496,0,1999,1999,20,English,French,Italian,German,Portuguese - Brazil,Korean,Russian,Simplified Chinese,Spanish - Latin America,NA,Action,Adventure,Indie,NA,NA
+935960,1,6,0,0,0,799,799,0,English,Simplified Chinese,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,Racing,Strategy
+743450,8118,609,0,229,0,1199,1199,104,English,Simplified Chinese,NA,NA,NA,NA,NA,NA,NA,NA,Indie,Simulation,NA,NA,NA
+870430,2,3,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+759840,1,2,0,0,0,799,799,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,NA,NA,NA
+516130,169,54,0,0,0,1999,1999,3,English,French,Italian,German,Spanish - Spain,Portuguese,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+700450,2,0,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+710690,14,2,0,0,0,1499,1499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+612390,568,151,0,86,0,1499,1499,3,English,Japanese,French,German,Spanish - Spain,Portuguese - Brazil,Russian,Simplified Chinese,Korean,Traditional Chinese,Action,Indie,NA,NA,NA
+886830,2,1,0,0,0,199,199,0,English,Russian,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,Racing
+882750,1,0,0,0,0,899,899,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+770110,95,18,0,0,0,1499,1499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,NA,NA
+792550,1,6,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Video Production,NA,NA,NA,NA
+606280,8005,2573,0,726,0,5999,5999,131,English,French,Italian,German,Spanish - Spain,Arabic,Portuguese - Brazil,Simplified Chinese,Japanese,Korean,Action,Adventure,RPG,NA,NA
+782410,1,7,0,0,0,2499,2499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Simulation,Strategy,NA,NA,NA
+546900,66,83,0,0,0,1999,1999,1,English,French,German,NA,NA,NA,NA,NA,NA,NA,Action,Strategy,NA,NA,NA
+485460,1540,349,0,590,0,2499,2499,68,English,French,Italian,German,Spanish - Spain,Japanese,Polish,Portuguese - Brazil,Russian,Simplified Chinese,Indie,RPG,Strategy,NA,NA
+673880,7275,629,0,1203,0,2999,2999,154,English,French,German,Spanish - Spain,Russian,Simplified Chinese,NA,NA,NA,NA,Strategy,NA,NA,NA,NA
+536670,2,1,0,0,0,699,699,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Racing,NA,NA
+860260,1,8,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+751740,1,3,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,Simulation,NA
+874640,1,4,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,Simulation,NA
+786580,210,82,0,0,0,999,999,2,English,Portuguese,Thai,Portuguese - Brazil,Simplified Chinese,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,RPG
+940180,1,0,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Simulation,NA,NA,NA
+489630,3394,841,0,759,0,3999,3999,351,English,German,Spanish - Spain,Russian,Simplified Chinese,French,NA,NA,NA,NA,Strategy,NA,NA,NA,NA
+637090,18668,4219,0,6002,1672,3999,999,2735,English,French,German,Russian,NA,NA,NA,NA,NA,NA,Action,Adventure,Strategy,NA,NA
+868520,1283,54,0,1423,0,1999,1999,14,English,French,German,Japanese,NA,NA,NA,NA,NA,NA,Action,Adventure,NA,NA,NA
+956590,1,3,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+622770,225,91,0,102,0,1999,1999,3,English,French,Japanese,Korean,Simplified Chinese,Portuguese - Brazil,German,Spanish - Spain,Spanish - Latin America,NA,Action,Adventure,Indie,NA,NA
+837810,0,4,0,0,0,1799,1799,0,English,German,Simplified Chinese,Portuguese,Russian,NA,NA,NA,NA,NA,Audio Production,Utilities,NA,NA,NA
+897210,1,0,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Simulation,Strategy,NA,NA
+770240,3086,2750,0,6914,204,0,0,289,English,French,Italian,German,Spanish - Spain,Dutch,Greek,Japanese,Korean,Portuguese,Sports,NA,NA,NA,NA
+530630,1286,600,0,70,0,0,0,32,English,French,Italian,Spanish - Spain,Korean,Portuguese - Brazil,Russian,Simplified Chinese,German,Japanese,Free to Play,Strategy,NA,NA,NA
+843980,2,0,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+702670,3891,514,0,154,0,1299,389,190,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Portuguese - Brazil,Russian,Simplified Chinese,Adventure,Casual,Indie,NA,NA
+907470,1835,224,0,434,0,1499,1499,11,English,Simplified Chinese,French,Italian,German,Russian,Japanese,Polish,Thai,Traditional Chinese,Adventure,Casual,Indie,NA,NA
+940240,1,0,0,0,0,799,799,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+696530,185,55,0,0,0,1299,1299,1,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+878810,1,6,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,Simulation
+653530,12696,412,0,582,0,1999,1999,78,English,French,Italian,German,Spanish - Spain,Japanese,Polish,Portuguese - Brazil,Russian,Korean,Adventure,Indie,NA,NA,NA
+633060,862,227,0,82,0,999,999,5,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,Simulation,NA,NA
+651500,484,32,0,147,0,1799,359,10,English,French,Italian,German,Spanish - Spain,Czech,Hungarian,Japanese,Polish,Portuguese,Action,Adventure,Casual,Indie,NA
+925940,80,28,0,0,0,1499,1499,7,English,French,Italian,German,Spanish - Spain,Dutch,NA,NA,NA,NA,Adventure,Casual,NA,NA,NA
+868600,1,0,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,NA,NA,NA,NA
+811270,169,19,0,0,0,1299,1299,0,English,French,German,Spanish - Spain,Simplified Chinese,Polish,Portuguese - Brazil,Russian,NA,NA,Action,Indie,NA,NA,NA
+975110,1,0,0,0,0,199,199,0,English,Simplified Chinese,French,German,Spanish - Spain,Russian,Japanese,Traditional Chinese,Portuguese - Brazil,Korean,Casual,Indie,NA,NA,NA
+844040,132,24,0,0,0,1999,1999,1,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Racing,Simulation,Sports,NA
+735500,91,42,0,0,0,999,999,0,English,French,Italian,German,Spanish - Spain,Simplified Chinese,Korean,Portuguese,Russian,Turkish,Action,Adventure,Indie,NA,NA
+336140,1291,50,0,236,0,1499,1499,3,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,RPG,NA,NA
+583950,11594,13165,0,1817,567,0,0,63,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Portuguese - Brazil,Russian,Simplified Chinese,Strategy,NA,NA,NA,NA
+698640,1438,436,0,1365,0,1999,1999,23,English,Russian,French,German,Spanish - Spain,Polish,Simplified Chinese,NA,NA,NA,Indie,RPG,Strategy,NA,NA
+844050,128,93,0,1,0,1199,1199,1,English,French,Italian,German,Japanese,Russian,Portuguese - Brazil,Simplified Chinese,Spanish - Latin America,NA,Action,Indie,Racing,RPG,Simulation
+817440,2,0,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+944420,0,2,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,RPG,NA,NA,NA,NA
+792870,1,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,NA
+790820,3813,514,0,509,20,4999,4999,205,English,French,Italian,German,Spanish - Spain,Korean,Simplified Chinese,Traditional Chinese,Japanese,NA,Action,RPG,Strategy,NA,NA
+487720,1107,1188,0,7,0,1499,1499,2,English,French,German,Polish,Italian,Spanish - Spain,Japanese,Korean,Portuguese,Russian,Action,Adventure,Indie,NA,NA
+356650,2184,701,0,251,0,1999,1999,17,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,NA,NA,NA,NA,Action,Adventure,Indie,RPG,NA
+393520,2679,363,0,740,0,1999,1999,17,English,French,German,Spanish - Spain,Japanese,Simplified Chinese,Traditional Chinese,Korean,NA,NA,Action,Adventure,Indie,NA,NA
+796980,1,2,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,NA
+782650,2,0,0,0,0,1499,1499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+809280,133,100,0,0,0,0,0,0,English,French,Spanish - Spain,Bulgarian,German,Simplified Chinese,Russian,Ukrainian,NA,NA,Simulation,Strategy,NA,NA,NA
+463170,191,185,0,0,0,1999,1999,8,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Simplified Chinese,Japanese,Korean,Polish,Adventure,RPG,Simulation,Strategy,NA
+624970,490,65,0,4115,0,1999,1999,22,English,French,German,NA,NA,NA,NA,NA,NA,NA,Action,Strategy,NA,NA,NA
+575820,158,35,0,6,0,1499,1499,0,English,French,Italian,German,Spanish - Spain,Dutch,Polish,Portuguese - Brazil,Russian,Simplified Chinese,Action,Indie,NA,NA,NA
+864590,1,7,0,0,0,599,89,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,Simulation,NA
+448850,1405,87,0,134,0,2999,2999,17,English,French,German,Spanish - Spain,Russian,NA,NA,NA,NA,NA,Action,NA,NA,NA,NA
+872790,10434,1660,0,9518,0,0,0,4341,English,French,Italian,German,Spanish - Spain,Czech,Danish,Dutch,Greek,Korean,Simulation,Sports,NA,NA,NA
+588140,0,1,0,0,0,599,599,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+835950,180,20,0,220,0,1999,1999,0,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Portuguese,Simplified Chinese,NA,Action,Casual,NA,NA,NA
+766320,95,24,0,0,0,2999,2999,1,English,French,German,Spanish - Spain,NA,NA,NA,NA,NA,NA,Action,RPG,NA,NA,NA
+823670,0,2,0,0,0,99,99,0,English,Simplified Chinese,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+582010,264358,50970,0,8767,1262,2999,2999,29915,English,French,Italian,German,Spanish - Spain,Arabic,Portuguese - Brazil,Polish,Traditional Chinese,Japanese,Action,NA,NA,NA,NA
+588160,384,439,0,53,0,1999,499,24,English,French,Italian,German,Spanish - Spain,Polish,Russian,Simplified Chinese,Portuguese - Brazil,NA,Simulation,Strategy,NA,NA,NA
+772480,146,38,0,0,0,499,499,1,English,French,Italian,German,Spanish - Spain,Portuguese,Russian,Simplified Chinese,Korean,Polish,Casual,Indie,Sports,NA,NA
+846220,2,0,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,NA,NA
+633230,19295,3942,0,1067,747,4999,4999,1425,English,Japanese,French,Italian,German,Spanish - Spain,Korean,Polish,Russian,Simplified Chinese,Action,NA,NA,NA,NA
+772500,99,58,0,99,0,999,999,0,English,Portuguese - Brazil,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,RPG,NA
+860570,0,6,0,0,0,399,399,0,English,German,Simplified Chinese,Portuguese,Russian,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+600480,1825,121,0,49,0,2499,1249,98,English,French,German,Spanish - Spain,Polish,Russian,Simplified Chinese,Portuguese - Brazil,Italian,Japanese,Indie,Simulation,Strategy,NA,NA
+504230,35309,798,0,863,452,1999,1999,655,English,French,Italian,German,Spanish - Spain,Japanese,Portuguese - Brazil,Russian,Simplified Chinese,NA,Action,Adventure,Indie,NA,NA
+496040,86,23,0,0,0,1999,1999,0,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Russian,NA,NA,NA,Action,Indie,NA,NA,NA
+704940,0,3,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+958900,0,1,0,0,0,2500,2500,0,English,Simplified Chinese,Korean,NA,NA,NA,NA,NA,NA,NA,Action,NA,NA,NA,NA
+510390,39,16,0,1,0,999,999,0,English,French,Italian,German,Spanish - Spain,Russian,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+963000,1825,162,0,37,0,499,499,3,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+743860,277,670,0,0,0,0,0,0,English,French,Italian,German,Spanish - Spain,Polish,Portuguese,Portuguese - Brazil,Russian,Simplified Chinese,Action,Indie,Massively Multiplayer,RPG,NA
+690620,87,24,0,6,0,1999,1999,0,English,French,Italian,German,Spanish - Spain,Russian,Japanese,Portuguese - Brazil,NA,NA,Action,Adventure,Indie,NA,NA
+741820,205,442,0,11,0,1999,1999,1,English,French,Italian,German,Spanish - Spain,Japanese,Polish,Portuguese - Brazil,Russian,Simplified Chinese,Action,NA,NA,NA,NA
+889290,1,0,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,NA,NA,NA,NA
+973260,1,3,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Animation & Modeling,Design & Illustration,NA,NA,NA
+860620,160,181,0,56,0,999,999,0,English,French,Italian,German,Spanish - Spain,Polish,Russian,Simplified Chinese,Japanese,Korean,Action,Adventure,Indie,Simulation,NA
+557520,95,54,0,0,0,2999,2999,1,English,French,Italian,German,Spanish - Spain,Japanese,Korean,NA,NA,NA,Adventure,NA,NA,NA,NA
+989650,1,6,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,Strategy,NA,NA
+612820,49,24,0,0,0,2999,2999,0,English,Simplified Chinese,Traditional Chinese,Japanese,Korean,NA,NA,NA,NA,NA,Action,RPG,NA,NA,NA
+948690,1,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+510420,1423,92,0,267,0,999,999,4,English,French,Spanish - Spain,Turkish,Italian,German,Russian,Polish,Portuguese - Brazil,NA,Indie,NA,NA,NA,NA
+621020,118,57,0,0,0,1999,1999,1,English,French,Italian,German,Spanish - Spain,Dutch,Japanese,Polish,Russian,Simplified Chinese,Action,Indie,Racing,Sports,NA
+520670,73,30,0,23,0,1499,1499,0,English,French,Italian,German,Spanish - Spain,Portuguese,Portuguese - Brazil,Russian,Simplified Chinese,NA,Action,Indie,NA,NA,NA
+801250,1,0,0,0,0,399,399,0,English,Japanese,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+434660,131,10,0,0,0,1299,1299,0,English,German,Russian,Simplified Chinese,French,Spanish - Spain,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+856550,2,0,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,Strategy,NA,NA
+803310,1,12,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,Simulation,Strategy,NA
+866800,10663,679,0,367,0,1999,1999,119,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Russian,Simplified Chinese,Traditional Chinese,NA,Adventure,NA,NA,NA,NA
+854510,1,1,0,0,0,299,299,0,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Russian,Simplified Chinese,NA,Strategy,NA,NA,NA,NA
+555510,373,185,0,6,0,1999,1999,7,English,French,German,Portuguese - Brazil,Russian,NA,NA,NA,NA,NA,Indie,Simulation,Strategy,NA,NA
+719350,1,0,0,0,0,499,499,0,English,French,Italian,German,Spanish - Spain,Arabic,Bulgarian,Czech,Danish,Dutch,Action,Adventure,Indie,NA,NA
+965110,1,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+907770,54,20,0,0,0,999,999,0,English,French,Italian,German,Spanish - Spain,Japanese,Spanish - Latin America,NA,NA,NA,Adventure,Casual,Indie,NA,NA
+717310,202,31,0,0,0,1499,1499,3,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Russian,NA,NA,NA,Action,Adventure,Indie,RPG,NA
+903680,1,1,0,0,0,99,99,0,English,Simplified Chinese,NA,NA,NA,NA,NA,NA,NA,NA,Casual,NA,NA,NA,NA
+967170,0,13,0,0,0,999,999,0,English,German,Simplified Chinese,Russian,NA,NA,NA,NA,NA,NA,Audio Production,Utilities,NA,NA,NA
+770560,0,2,0,0,0,1499,1499,0,English,Polish,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+815620,0,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,Racing,NA,NA
+791040,1,1,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Education,Utilities,NA,NA,NA
+737800,8719,1232,0,1789,470,2499,2499,811,English,French,Italian,German,Spanish - Spain,Japanese,Polish,Portuguese - Brazil,Russian,Simplified Chinese,Racing,Simulation,Sports,NA,NA
+877070,1,1,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+633360,1168,372,0,0,0,1999,1999,5,English,Italian,French,Spanish - Spain,Portuguese - Brazil,Turkish,Russian,German,Simplified Chinese,Japanese,Action,Adventure,Indie,NA,NA
+836120,2,0,0,0,0,599,599,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+510490,386,85,0,0,0,1699,1699,2,English,French,Italian,German,Spanish - Spain,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+528930,1,3,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+940600,1,2,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Simulation,NA,NA,NA,NA
+789050,34,4,0,0,0,199,199,0,English,Not supported,Simplified Chinese,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,RPG,NA,NA
+934470,1,3,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+449100,18,5,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,RPG,Strategy,NA
+793170,16,15,0,0,0,0,0,0,English,Simplified Chinese,Traditional Chinese,NA,NA,NA,NA,NA,NA,NA,Adventure,Free to Play,Indie,NA,NA
+445020,151,69,0,0,0,2999,2999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,Strategy,NA,NA,NA
+733790,1114,208,0,92,0,1999,1999,35,English,Simplified Chinese,Spanish - Spain,French,NA,NA,NA,NA,NA,NA,Adventure,RPG,Simulation,NA,NA
+868960,1,9,0,0,0,599,599,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,Simulation,NA
+946790,0,3,0,0,0,399,399,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,Strategy,NA,NA,NA
+692840,305,606,0,0,0,2999,2999,2,English,French,Italian,German,Spanish - Spain,Russian,Simplified Chinese,Japanese,NA,NA,Action,Adventure,Indie,RPG,NA
+852590,2,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+744050,129,10,0,0,0,1999,1999,0,English,French,Italian,German,Spanish - Spain,Japanese,Simplified Chinese,Traditional Chinese,Korean,NA,Action,NA,NA,NA,NA
+756340,1,3,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Strategy,NA,NA,NA
+762490,52,13,0,0,0,599,599,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+744060,921,354,0,0,0,1999,1999,7,English,Japanese,NA,NA,NA,NA,NA,NA,NA,NA,Action,NA,NA,NA,NA
+692860,1,0,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+950910,1,2,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,Strategy,NA,NA
+963200,1,3,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,Simulation,Strategy
+801410,1,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,RPG,NA,NA,NA
+836230,1,1,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,RPG,NA,NA
+574090,979,266,0,405,0,2499,2499,25,English,French,Italian,German,Spanish - Spain,Polish,Russian,NA,NA,NA,Action,Indie,NA,NA,NA
+809610,1,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,Simulation,Sports
+375440,409,32,0,0,0,2999,2999,1,English,French,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,RPG,NA,NA
+447120,707,154,0,631,0,1999,1999,6,English,French,German,Russian,Simplified Chinese,NA,NA,NA,NA,NA,Adventure,Indie,RPG,NA,NA
+492180,161,25,0,0,0,999,999,1,English,French,Italian,German,Spanish - Spain,Russian,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+774811,722,303,0,0,0,1999,1999,4,English,Japanese,French,Italian,German,Spanish - Spain,Korean,Russian,Simplified Chinese,Traditional Chinese,Action,Adventure,Indie,NA,NA
+756380,1,1,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+834210,0,3,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+905890,1,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+838310,3001,173,0,187,284,999,999,7,English,Japanese,NA,NA,NA,NA,NA,NA,NA,NA,Action,NA,NA,NA,NA
+826020,1,0,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+606890,200,35,0,0,0,999,999,1,English,French,Italian,German,Spanish - Spain,Russian,Simplified Chinese,NA,NA,NA,Action,Adventure,RPG,Strategy,NA
+989870,1,0,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+828080,0,7,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+359100,1024,187,0,34,0,2499,2499,3,English,French,German,Spanish - Spain,Portuguese - Brazil,Russian,Simplified Chinese,Traditional Chinese,Italian,NA,Action,Adventure,Indie,NA,NA
+934590,0,2,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+492230,390,190,0,0,0,2999,2999,11,English,French,Italian,German,Spanish - Spain,Czech,Polish,Portuguese - Brazil,Russian,Simplified Chinese,Strategy,NA,NA,NA,NA
+727760,87,18,0,0,0,299,299,5,English,French,Italian,German,Spanish - Spain,Arabic,Japanese,Korean,Portuguese,Russian,Adventure,Indie,Strategy,NA,NA
+676570,1,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,Sports,NA
+404200,450,116,0,0,0,1999,1999,3,English,Simplified Chinese,French,Italian,German,Spanish - Spain,Russian,Portuguese,Danish,NA,RPG,Strategy,NA,NA,NA
+613100,38926,3398,0,1130,12,1999,1999,2375,English,French,Italian,German,Spanish - Spain,Polish,Russian,Simplified Chinese,Czech,Japanese,Indie,Simulation,NA,NA,NA
+985840,1,0,0,0,0,299,299,0,English,French,Italian,German,Spanish - Spain,NA,NA,NA,NA,NA,Casual,NA,NA,NA,NA
+893680,2523,307,0,259,11,1200,1200,15,English,French,German,Spanish - Spain,Polish,Portuguese - Brazil,Russian,Simplified Chinese,NA,NA,Action,Indie,NA,NA,NA
+762610,188,3,0,0,0,1499,674,0,English,French,German,Japanese,Portuguese - Brazil,Russian,Spanish - Latin America,NA,NA,NA,Action,Indie,NA,NA,NA
+912120,0,4,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+596730,0,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,NA,NA,NA,NA
+764670,58,20,0,0,0,1199,1199,2,English,Russian,NA,NA,NA,NA,NA,NA,NA,NA,Action,RPG,NA,NA,NA
+860930,1,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+770830,0,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+551700,231,58,0,0,0,1499,1499,2,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+852760,1,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+897820,657,193,0,63,0,399,399,6,English,French,German,Spanish - Spain,Italian,Japanese,Korean,Portuguese - Brazil,Russian,Simplified Chinese,Adventure,Indie,RPG,NA,NA
+918300,1,0,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+369440,459,204,0,0,0,2999,2999,1,English,French,Italian,German,Spanish - Spain,Polish,Russian,Simplified Chinese,NA,NA,Action,Adventure,RPG,NA,NA
+809760,1,6,0,0,0,199,75,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+504610,1,1,0,0,0,699,699,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+717610,296,60,0,283,0,1499,1499,1,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+762670,1,3,0,0,0,99,99,0,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Portuguese - Brazil,Russian,Simplified Chinese,Action,NA,NA,NA,NA
+250680,652,257,0,117,0,2499,2499,5,English,French,Italian,German,Spanish - Spain,Russian,Polish,Portuguese - Brazil,NA,NA,Adventure,Indie,RPG,NA,NA
+695100,233,65,0,0,0,1999,1999,2,English,French,German,Spanish - Spain,Russian,Korean,Polish,Portuguese - Brazil,Simplified Chinese,Japanese,Adventure,Indie,RPG,NA,NA
+709440,569,156,0,8,0,1999,1999,5,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Japanese,NA,NA,NA,Action,Indie,NA,NA,NA
+783170,635,390,0,20,0,2999,2999,2,English,Russian,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,RPG,NA,NA
+951110,1,1,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Simulation,Sports,NA,NA,NA
+887630,0,1,0,0,0,299,299,0,English,Russian,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,Simulation,Sports
+545620,21,17,0,0,0,1999,1999,0,English,French,German,Spanish - Spain,Japanese,Korean,Polish,Portuguese,Portuguese - Brazil,Russian,Adventure,Indie,NA,NA,NA
+416600,1949,171,0,259,0,1999,1999,32,English,French,German,Spanish - Spain,Portuguese - Brazil,Russian,Simplified Chinese,Korean,NA,NA,Action,Adventure,Indie,RPG,NA
+897880,1,3,0,0,0,199,199,0,English,Portuguese - Brazil,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+848730,1,4,0,0,0,799,799,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+803680,0,1,0,0,0,599,599,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+590690,526,92,0,0,0,2999,2999,1,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,Racing,Sports,NA
+848740,1,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+783210,181,41,0,0,0,2999,2999,3,English,Spanish - Spain,NA,NA,NA,NA,NA,NA,NA,NA,Strategy,NA,NA,NA,NA
+537450,552,319,0,594,0,1999,1999,11,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Russian,Simplified Chinese,Traditional Chinese,Action,Adventure,NA,NA,NA
+848750,1,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,NA,NA,NA,NA
+873330,2,0,0,0,0,499,499,0,English,French,German,Spanish - Spain,Russian,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+938870,1,2,0,0,0,1099,1099,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+764790,5843,331,0,595,435,1999,1999,72,English,French,German,Spanish - Spain,Simplified Chinese,Traditional Chinese,Japanese,Korean,Portuguese - Brazil,Russian,Action,Indie,NA,NA,NA
+347000,144,82,0,0,0,1999,1999,0,English,French,Italian,German,Spanish - Spain,Japanese,Portuguese - Brazil,Russian,Simplified Chinese,NA,Adventure,Indie,NA,NA,NA
+646010,20,10,0,0,0,1499,1499,0,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Portuguese - Brazil,Russian,Simplified Chinese,Adventure,Indie,NA,NA,NA
+920450,1,1,0,0,0,599,599,0,English,French,Italian,German,Spanish - Spain,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+521090,27,10,0,0,0,999,999,0,English,French,German,Spanish - Spain,NA,NA,NA,NA,NA,NA,Simulation,Strategy,NA,NA,NA
+312200,1242,490,0,494,0,1999,1999,10,English,French,Italian,German,Portuguese - Brazil,Spanish - Latin America,Hungarian,NA,NA,NA,Action,Adventure,Indie,RPG,NA
+848780,1,0,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,Strategy,NA
+287630,3125,551,0,7,2,0,0,31,English,French,German,Spanish - Spain,Russian,Italian,NA,NA,NA,NA,Adventure,RPG,NA,NA,NA
+934800,2,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,Massively Multiplayer,NA
+863120,0,1,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+783250,1,0,0,0,0,199,199,0,English,French,Italian,Spanish - Spain,Simplified Chinese,Russian,German,Arabic,Japanese,Korean,Casual,Indie,NA,NA,NA
+916370,1,4,0,0,0,599,59,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+816030,1,1,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,Strategy,NA,NA
+897950,1,4,0,0,0,99,99,0,English,Russian,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,NA
+600990,1526,95,0,0,0,1999,1999,2,English,French,Italian,German,Spanish - Spain,Dutch,Portuguese,Japanese,Korean,Portuguese - Brazil,Adventure,Indie,NA,NA,NA
+646050,19,37,0,0,0,2999,2999,0,English,French,Italian,Spanish - Spain,Japanese,Korean,Portuguese - Brazil,Russian,Simplified Chinese,Traditional Chinese,Action,Indie,NA,NA,NA
+809890,664,256,0,1652,0,2999,2999,23,English,Japanese,Korean,Simplified Chinese,Traditional Chinese,NA,NA,NA,NA,NA,Adventure,RPG,NA,NA,NA
+795550,2,1,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+752550,25,4,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+914350,1,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+486320,2,1,0,0,0,399,399,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,Strategy,NA,NA,NA
+537520,101,84,0,0,0,1199,1199,0,English,French,German,Spanish - Spain,Polish,Portuguese,Russian,Czech,Japanese,Simplified Chinese,Adventure,Indie,Simulation,Strategy,NA
+940990,2,0,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,NA,NA,NA
+973760,9725,903,0,950,0,1999,599,1086,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Polish,Portuguese - Brazil,Russian,Adventure,RPG,NA,NA,NA
+791490,1,0,0,0,0,1999,1999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,Strategy,NA,NA
+748490,1775,94,0,615,0,3999,3999,152,English,Japanese,NA,NA,NA,NA,NA,NA,NA,NA,RPG,NA,NA,NA,NA
+795610,29,28,0,0,0,699,699,0,English,French,Italian,German,Spanish - Spain,Russian,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+955360,8,5,0,0,0,599,599,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,RPG,NA,NA
+773090,148,31,0,0,0,599,599,1,English,Polish,French,Russian,Ukrainian,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+943080,0,2,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,RPG,NA,NA
+822250,1,1,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,Strategy,NA,NA
+762860,2,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+711660,1722,436,0,78,0,999,999,15,English,French,Italian,German,Spanish - Spain,Arabic,Bulgarian,Czech,Danish,Dutch,Adventure,Casual,Indie,NA,NA
+850930,2,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,RPG,NA
+893940,1,1,0,0,0,599,599,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+898040,2,1,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+695290,1605,529,0,428,0,4999,4999,137,English,French,Italian,German,Spanish - Spain,NA,NA,NA,NA,NA,Indie,Simulation,Sports,Strategy,NA
+908290,1,0,0,0,0,1999,1999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Education,Software Training,Utilities,Web Publishing,NA
+560130,10828,1584,0,1983,81,3999,3999,1395,English,French,Italian,German,Spanish - Spain,Polish,Russian,Simplified Chinese,Portuguese - Brazil,NA,RPG,NA,NA,NA,NA
+617480,1469,245,0,1248,0,2499,624,59,English,German,Polish,Russian,French,Turkish,Simplified Chinese,Traditional Chinese,Italian,NA,Indie,RPG,Strategy,NA,NA
+572430,1306,292,0,474,3,1999,1999,21,English,Polish,French,German,Spanish - Spain,Portuguese - Brazil,Simplified Chinese,Korean,Japanese,Russian,Action,Adventure,Indie,Simulation,Strategy
+844820,2,1,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Simulation,NA,NA
+918550,0,1,0,0,0,699,699,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,Simulation,Strategy,NA,NA
+623640,126,12,0,0,0,1999,1999,0,English,Spanish - Latin America,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+556060,82,9,0,108,0,1499,1499,1,English,Italian,German,Russian,French,Spanish - Spain,NA,NA,NA,NA,Adventure,NA,NA,NA,NA
+678950,35920,4160,0,3210,397,5999,5999,2252,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Polish,Portuguese - Brazil,Russian,Action,NA,NA,NA,NA
+863270,2,0,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,NA,NA,NA
+609320,7939,528,0,302,4,1499,1499,10,English,German,French,Italian,Spanish - Spain,Japanese,Portuguese - Brazil,Russian,Simplified Chinese,Polish,Action,Adventure,Indie,NA,NA
+869420,1,2,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+559100,2487,793,0,751,0,3999,3999,89,English,Polish,French,German,Russian,Simplified Chinese,Italian,Spanish - Spain,NA,NA,Action,RPG,Strategy,NA,NA
+914480,1,0,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+863290,1,3,0,0,0,499,499,0,English,Simplified Chinese,French,German,Russian,Portuguese,Spanish - Spain,Portuguese - Brazil,Spanish - Latin America,NA,Action,Casual,Indie,Simulation,Sports
+977980,1,0,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+416830,79,13,0,0,0,1499,1499,0,English,French,Spanish - Spain,Japanese,Portuguese - Brazil,Russian,Simplified Chinese,Korean,NA,NA,Action,Adventure,Indie,NA,NA
+910400,1,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,Simulation,NA,NA
+625740,100,4,0,0,0,1199,1199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+504920,187,25,0,0,0,1499,1499,0,English,French,German,Spanish - Spain,Japanese,Korean,Portuguese - Brazil,Russian,Simplified Chinese,Traditional Chinese,Adventure,Indie,NA,NA,NA
+783450,40,28,0,0,0,999,999,0,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Russian,Simplified Chinese,Traditional Chinese,NA,Action,Indie,NA,NA,NA
+334940,2401,86,0,167,0,1999,1999,62,English,French,Italian,German,Spanish - Spain,Russian,Simplified Chinese,Japanese,Korean,NA,Adventure,Indie,NA,NA,NA
+599140,17877,3183,0,1308,444,1999,1999,902,English,French,German,Simplified Chinese,Spanish - Spain,Portuguese - Brazil,Korean,Japanese,Russian,Italian,Adventure,Indie,RPG,Simulation,NA
+789610,1,0,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,Racing
+515180,5870,1496,0,979,0,3499,3499,331,English,French,German,Spanish - Spain,Czech,Japanese,Polish,Portuguese - Brazil,Russian,Simplified Chinese,Simulation,NA,NA,NA,NA
+717940,1,1,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+709750,2,1,0,0,0,999,999,0,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Simplified Chinese,Traditional Chinese,NA,Action,Adventure,Indie,NA,NA
+898170,1,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,Racing,NA,NA
+640120,364,50,0,0,0,1999,999,5,English,Danish,French,German,Italian,Spanish - Spain,Czech,Japanese,Korean,Polish,Action,Adventure,Indie,NA,NA
+646270,1638,288,0,123,0,999,999,33,English,French,German,Russian,Simplified Chinese,Polish,Korean,Japanese,NA,NA,Adventure,Casual,Indie,RPG,Simulation
+969860,1,6,0,0,0,399,399,0,English,German,Simplified Chinese,Russian,NA,NA,NA,NA,NA,NA,Indie,Strategy,NA,NA,NA
+867460,0,2,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,NA,NA,NA
+889990,1,3,0,0,0,99,99,0,English,French,Italian,German,Spanish - Spain,Danish,Ukrainian,Russian,Bulgarian,Hungarian,Casual,Indie,NA,NA,NA
+455820,1101,141,0,252,0,1999,1999,3,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Russian,Simplified Chinese,Portuguese,NA,Action,Adventure,Indie,RPG,NA
+961680,1,5,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,Massively Multiplayer,NA
+941200,0,1,0,0,0,199,199,0,English,Russian,French,Simplified Chinese,Spanish - Spain,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+339090,67,2,0,0,0,1499,1499,0,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Simplified Chinese,Traditional Chinese,NA,NA,Adventure,Indie,NA,NA,NA
+664720,0,7,0,0,0,899,899,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,RPG
+414870,849,109,0,835,0,1999,1999,39,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,Simulation,Sports,NA,NA
+543900,2788,1485,0,1284,0,2999,2999,62,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Portuguese - Brazil,Russian,Traditional Chinese,Action,Adventure,Strategy,NA,NA
+648350,35518,6301,0,1052,85,4499,1124,1972,English,French,German,Spanish - Spain,Japanese,Portuguese - Brazil,Russian,Simplified Chinese,Traditional Chinese,Italian,Simulation,Strategy,NA,NA,NA
+744610,1,4,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,RPG,NA,NA
+777380,2,1,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,Strategy,NA,NA,NA
+558260,420,164,0,76,0,2999,2999,8,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Japanese,NA,NA,NA,Racing,Sports,NA,NA,NA
+808120,2,1,0,0,0,499,499,0,English,French,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+933050,1,8,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+978110,0,1,0,0,0,799,799,0,English,Simplified Chinese,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+636100,819,90,0,215,0,1499,1499,7,English,Spanish - Spain,Japanese,Russian,Simplified Chinese,Korean,French,German,Portuguese - Brazil,NA,Action,Indie,RPG,NA,NA
+525510,2236,149,0,183,0,1299,1299,9,English,French,Italian,German,Spanish - Spain,Dutch,Polish,Russian,Turkish,Portuguese - Brazil,Action,Adventure,NA,NA,NA
+898250,1,1,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,NA,NA
+869580,1,0,0,0,0,99,99,0,English,Portuguese - Brazil,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,Racing,NA
+945360,513178,35186,0,1133,93,499,499,17217,English,Portuguese - Brazil,Spanish - Latin America,Spanish - Spain,Korean,Russian,French,Italian,German,Dutch,Casual,NA,NA,NA,NA
+609490,1607,173,0,74,0,999,999,8,English,French,German,Spanish - Spain,Italian,Polish,Portuguese - Brazil,Russian,Korean,Simplified Chinese,Adventure,Indie,NA,NA,NA
+859340,484,215,0,75,0,2999,2999,1,English,Simplified Chinese,Traditional Chinese,French,Japanese,German,Russian,NA,NA,NA,Adventure,Indie,NA,NA,NA
+888030,0,3,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Simulation,NA,NA,NA
+896240,1,2,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,Simulation,NA
+963830,1,0,0,0,0,199,199,0,English,French,Italian,German,Spanish - Spain,Bulgarian,Czech,Simplified Chinese,Traditional Chinese,Korean,Casual,Indie,Simulation,NA,NA
+912630,0,1,0,0,0,0,0,0,English,Japanese,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,Simulation,Strategy,NA
+974070,1,0,0,0,0,299,299,0,English,French,German,Spanish - Spain,Dutch,Italian,Czech,Greek,Japanese,Polish,Casual,Indie,Strategy,NA,NA
+929020,1,0,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,RPG,NA,NA
+544000,2,0,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,Sports,NA
+619780,1190,756,0,694,44,1499,1499,24,English,French,German,Spanish - Spain,Russian,Korean,Portuguese - Brazil,Simplified Chinese,Traditional Chinese,Japanese,Action,Adventure,Indie,RPG,NA
+314630,21,4,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,NA,NA
+603400,99,39,0,0,0,999,999,2,English,French,Italian,German,Spanish - Spain,NA,NA,NA,NA,NA,Action,Adventure,Indie,RPG,NA
+605450,768,108,0,91,0,2999,2999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+845070,10814,850,0,96,0,0,0,34,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Russian,Simplified Chinese,Japanese,NA,Adventure,Free to Play,NA,NA,NA
+875790,1,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,NA,NA,NA,NA
+787730,1,1,0,0,0,1499,1499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,RPG,NA,NA
+816410,1,0,0,0,0,399,399,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+427290,10635,3428,0,830,0,3999,3999,164,English,French,German,Spanish - Spain,Portuguese - Brazil,Russian,Polish,Italian,Simplified Chinese,NA,Action,RPG,NA,NA,NA
+924960,1,2,0,0,0,1499,1499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,NA,NA,NA,NA
+900390,1,0,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+677160,3329,820,0,208,126,999,999,65,English,Italian,Spanish - Spain,French,German,Simplified Chinese,Japanese,Korean,Dutch,Russian,Adventure,Casual,Indie,NA,NA
+455980,1448,313,0,181,0,1999,1999,40,English,German,Simplified Chinese,French,Italian,Spanish - Spain,Russian,Spanish - Latin America,Japanese,NA,Indie,Simulation,Strategy,NA,NA
+859440,29,34,0,0,0,1999,1999,0,English,French,Italian,German,Spanish - Spain,Korean,Polish,Portuguese - Brazil,Russian,Simplified Chinese,Action,Indie,Strategy,NA,NA
+525620,402,48,0,0,0,888,888,37,English,German,Spanish - Spain,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,Strategy,NA
+765240,0,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,Strategy,NA
+683320,40690,1419,0,242,221,1699,1699,180,English,French,German,Spanish - Spain,Japanese,Korean,Russian,Simplified Chinese,Traditional Chinese,Portuguese - Brazil,Adventure,Indie,NA,NA,NA
+863550,47704,4915,0,2342,87,9999,9999,1187,English,French,Italian,German,Spanish - Spain,Polish,Portuguese - Brazil,Russian,Simplified Chinese,Spanish - Latin America,Action,NA,NA,NA,NA
+931140,1,4,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,RPG,NA,NA,NA,NA
+636230,13,19,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,Strategy,NA,NA
+861510,0,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+771400,0,9,0,0,0,1099,1099,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,Simulation,Strategy,NA
+785740,3199,1076,0,846,0,1499,1499,43,English,French,German,Spanish - Spain,Simplified Chinese,Japanese,Russian,Italian,Korean,Polish,Adventure,Indie,Strategy,NA,NA
+570710,80,182,0,10,0,2999,2999,1,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,NA,NA,NA,NA,Action,Adventure,NA,NA,NA
+501080,1517,433,0,527,0,2499,2499,24,English,French,German,Spanish - Spain,Czech,Japanese,Norwegian,Polish,Russian,Italian,Simulation,NA,NA,NA,NA
+611670,4816,1385,0,224,0,5999,5999,269,English,French,Italian,German,Spanish - Spain,Japanese,Polish,Russian,Traditional Chinese,NA,RPG,NA,NA,NA,NA
+730460,0,1,0,0,0,299,299,0,English,Portuguese,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,RPG
+542050,1210,110,0,236,0,1999,1999,7,English,French,German,Italian,Portuguese,Portuguese - Brazil,Russian,Spanish - Spain,Polish,Korean,Action,Adventure,Casual,Indie,NA
+587110,399,26,0,0,0,2499,2499,21,English,Japanese,NA,NA,NA,NA,NA,NA,NA,NA,Action,RPG,NA,NA,NA
+621930,246,39,0,0,0,1999,1999,2,English,German,Spanish - Spain,Russian,Simplified Chinese,Italian,Japanese,Korean,French,NA,Indie,Strategy,NA,NA,NA
+777580,2,0,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+787820,2,1,0,0,0,1699,1699,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,Strategy
+763250,133,42,0,0,0,1299,1299,0,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Russian,NA,NA,NA,Adventure,Indie,Strategy,NA,NA
+437630,1105,243,0,176,0,1999,399,17,English,French,German,Spanish - Spain,Japanese,Korean,Portuguese - Brazil,Russian,Italian,Simplified Chinese,Adventure,Indie,NA,NA,NA
+523650,2166,950,0,73,0,1499,224,32,English,French,Italian,German,Spanish - Spain,Simplified Chinese,Korean,Polish,Portuguese,Russian,Adventure,Indie,NA,NA,NA
+861580,2,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,RPG,NA,NA
+925070,1,1,0,0,0,1199,1199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,NA,NA
+937360,1,1,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,RPG,NA
+621970,39,16,0,0,0,2999,2999,0,English,French,Italian,German,Spanish - Spain,Japanese,Portuguese - Brazil,NA,NA,NA,Action,Casual,Indie,Racing,Sports
+787860,42640,3103,0,11470,917,1999,1999,26083,English,French,Italian,German,Spanish - Spain,Czech,Dutch,Hungarian,Japanese,Korean,Simulation,NA,NA,NA,NA
+953750,1,4,0,0,0,1499,1499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+767390,465,243,0,892,0,2999,2999,6,English,French,Italian,German,Spanish - Spain,Portuguese,NA,NA,NA,NA,Adventure,Racing,Simulation,Sports,NA
+396710,1074,96,0,195,0,1499,1499,12,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,RPG,NA
+855480,0,11,0,0,0,399,399,0,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Portuguese,Russian,Simplified Chinese,Action,Indie,Strategy,NA,NA
+701880,1,0,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+816570,0,2,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+765370,0,6,0,0,0,399,399,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,Strategy,NA,NA
+863690,1,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+818640,0,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+886230,1,3,0,0,0,1999,1999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Strategy,NA,NA,NA,NA
+501790,471,50,0,236,0,1999,1999,4,English,French,Italian,German,Spanish - Spain,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+488920,251,66,0,41,0,1999,1999,4,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sports,NA,NA,NA,NA
+509400,23,3,0,0,0,699,699,0,English,French,Italian,German,Spanish - Spain,Arabic,Dutch,Japanese,Korean,Portuguese - Brazil,Casual,Indie,NA,NA,NA
+789980,0,1,0,0,0,799,799,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,RPG,NA
+650720,1,3,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+404960,67,27,0,0,0,1499,1499,0,English,Italian,Russian,French,German,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+638970,34676,2153,0,1298,565,1999,1999,2071,English,Japanese,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,RPG,NA,NA
+904680,1,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+691690,2077,618,0,751,0,2499,999,52,English,Russian,Simplified Chinese,Ukrainian,Italian,German,Polish,French,Portuguese - Brazil,Spanish - Spain,Adventure,Indie,RPG,Strategy,NA
+814570,12,10,0,0,0,399,399,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Simulation,Strategy,NA
+923120,0,3,0,0,0,99,99,0,English,Simplified Chinese,French,Italian,Spanish - Spain,Danish,Ukrainian,Russian,Japanese,Traditional Chinese,Adventure,Casual,Indie,RPG,NA
+923130,1,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+853500,304,37,0,0,0,599,599,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,NA,NA
+517630,11346,8015,0,946,0,6903,6903,484,English,French,Italian,German,Spanish - Spain,Arabic,Portuguese - Brazil,Russian,Korean,Simplified Chinese,Action,Adventure,NA,NA,NA
+939520,964,744,0,465,0,1299,1299,35,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,RPG,NA,NA,NA
+847360,389,63,0,150,0,2999,2999,9,English,French,Italian,German,Spanish - Spain,Czech,Danish,Dutch,Finnish,Greek,Action,Adventure,NA,NA,NA
+777730,2,1,0,0,0,899,899,0,English,Italian,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+812550,277,109,0,0,0,1999,1999,3,English,French,German,Spanish - Spain,Russian,Simplified Chinese,Spanish - Latin America,NA,NA,NA,Action,Indie,NA,NA,NA
+847370,5657,591,0,242,58,1999,1999,74,English,French,Italian,German,Japanese,Polish,Portuguese - Brazil,Russian,Spanish - Latin America,Spanish - Spain,Action,Adventure,NA,NA,NA
+927250,2337,373,0,332,0,999,999,3,English,Japanese,Simplified Chinese,Traditional Chinese,Korean,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,RPG
+935450,1,6,0,0,0,399,399,0,English,French,Italian,German,Simplified Chinese,Korean,Portuguese,Russian,Japanese,Spanish - Spain,Action,Simulation,NA,NA,NA
+935460,0,8,0,0,0,399,399,0,English,French,Italian,German,Spanish - Spain,Simplified Chinese,Korean,Portuguese,Russian,Japanese,Simulation,Sports,NA,NA,NA
+400940,1094,288,0,253,0,2999,2999,7,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Portuguese,Portuguese - Brazil,Russian,Action,Adventure,Indie,NA,NA
+552500,58054,12785,0,2690,428,2999,2999,7977,English,French,Italian,German,Spanish - Spain,Polish,Portuguese - Brazil,Russian,Simplified Chinese,NA,Action,Indie,NA,NA,NA
+917050,1,1,0,0,0,499,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+941630,2,0,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+628290,164,53,0,275,0,999,999,0,English,Portuguese - Brazil,Spanish - Spain,Simplified Chinese,Russian,German,French,Polish,NA,NA,Indie,RPG,NA,NA,NA
+837190,74,3,0,0,0,1799,1799,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+861770,1,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,Strategy,NA,NA,NA
+955980,1,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,Simulation,NA
+882260,2,1,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,NA,NA
+855640,840,27,0,0,0,1499,1499,6,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Polish,Portuguese,Portuguese - Brazil,Adventure,Casual,Indie,NA,NA
+898650,749,204,0,229,0,1299,1299,7,English,Simplified Chinese,French,German,Turkish,Russian,Ukrainian,Spanish - Spain,Hungarian,Portuguese - Brazil,Adventure,Indie,NA,NA,NA
+964190,0,2,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+861790,0,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+913000,2,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+661100,2,0,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+579180,2638,484,0,475,0,3999,3999,152,English,French,Japanese,NA,NA,NA,NA,NA,NA,NA,Action,RPG,NA,NA,NA
+935540,1,0,0,0,0,399,399,0,English,Simplified Chinese,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+323190,58380,5716,0,993,189,2999,2999,1795,English,French,German,Spanish - Spain,Polish,Russian,Simplified Chinese,Portuguese - Brazil,Turkish,Italian,Simulation,Strategy,NA,NA,NA
+908920,0,4,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,RPG,NA
+773770,22,17,0,0,0,1099,1099,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,NA,NA,NA,NA
+841370,8928,13815,0,8147,229,5999,5999,1270,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Simplified Chinese,Traditional Chinese,NA,Simulation,Sports,NA,NA,NA
+810650,1,3,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,Sports,NA,NA
+427680,214,38,0,0,0,1499,1499,6,English,Japanese,NA,NA,NA,NA,NA,NA,NA,NA,Action,RPG,NA,NA,NA
+810660,400,25,0,0,0,1199,1199,1,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Portuguese,Russian,Simplified Chinese,Adventure,Indie,NA,NA,NA
+485030,550,216,0,0,0,1999,1999,8,English,French,Italian,German,Spanish - Spain,Danish,Romanian,Russian,Swedish,Japanese,Action,Adventure,Indie,NA,NA
+792230,1,0,0,0,0,499,499,0,English,Japanese,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+949930,0,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,Strategy,NA
+552620,6471,815,0,352,271,1499,1499,143,English,Russian,Simplified Chinese,Spanish - Spain,French,Italian,NA,NA,NA,NA,RPG,NA,NA,NA,NA
+743090,1087,1198,0,456,0,0,0,0,English,French,German,NA,NA,NA,NA,NA,NA,NA,Adventure,Free to Play,Massively Multiplayer,NA,NA
+829110,2061,215,0,335,146,3999,3999,194,English,Italian,German,Spanish - Spain,Arabic,Danish,Dutch,Korean,Polish,Portuguese - Brazil,Action,Adventure,NA,NA,NA
+573120,932,249,0,143,0,1999,1999,37,English,French,German,Simplified Chinese,Italian,Polish,Russian,Spanish - Latin America,NA,NA,Adventure,Indie,RPG,Simulation,Strategy
+730820,1251,31,0,0,0,699,699,48,English,French,Italian,German,Spanish - Spain,NA,NA,NA,NA,NA,Adventure,NA,NA,NA,NA
+581320,61604,11713,0,1680,240,2999,1499,6829,English,French,Italian,German,Simplified Chinese,Russian,Spanish - Latin America,Spanish - Spain,Traditional Chinese,Korean,Action,NA,NA,NA,NA
+704200,133,7,0,0,0,1999,1999,1,English,Polish,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,RPG,NA,NA
+859860,0,4,0,0,0,0,0,0,English,German,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,Simulation,Strategy
+952030,1,7,0,0,0,599,599,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,RPG,NA,NA
+761570,2,1,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+704230,260,96,0,4927,0,1999,1999,166,English,French,Italian,German,Spanish - Spain,Danish,Dutch,Norwegian,Portuguese,NA,Simulation,Sports,NA,NA,NA
+945910,1,3,0,0,0,1499,1499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indie,NA,NA,NA,NA
+700160,154,14,0,0,0,999,199,1,English,French,German,Japanese,Korean,Portuguese - Brazil,Russian,Simplified Chinese,NA,NA,Action,Adventure,Casual,Indie,NA
+874250,1,1,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,RPG,NA,NA
+591630,859,63,0,26,0,1499,1499,5,English,Simplified Chinese,Japanese,Traditional Chinese,French,Italian,German,Spanish - Spain,Danish,Russian,Action,Adventure,Indie,RPG,NA
+642830,51,26,0,0,0,1299,1299,0,English,French,Italian,German,Russian,Simplified Chinese,Japanese,NA,NA,NA,Action,Adventure,Indie,NA,NA
+778000,2,1,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,Strategy,NA
+761620,3479,456,0,150,52,1499,1499,43,English,Simplified Chinese,Russian,German,Korean,Polish,Spanish - Spain,Turkish,NA,NA,Adventure,Indie,Simulation,Strategy,NA
+816920,1,6,0,0,0,999,999,0,English,French,German,Korean,Ukrainian,NA,NA,NA,NA,NA,Action,Simulation,NA,NA,NA
+603930,97,36,0,0,0,1999,1999,1,English,Spanish - Latin America,French,German,NA,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+818990,1,1,0,0,0,159,159,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+905010,2,0,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+884530,1,9,0,0,0,199,199,0,English,Russian,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,Simulation,Strategy
+640820,17348,4709,0,5544,195,1999,1999,3128,English,French,German,Russian,Simplified Chinese,NA,NA,NA,NA,NA,RPG,NA,NA,NA,NA
+888630,115,26,0,0,0,1999,679,2,English,French,Italian,German,Spanish - Spain,Simplified Chinese,Russian,Korean,Ukrainian,NA,Action,Adventure,Casual,Indie,NA
+452410,60,9,0,0,0,699,699,0,English,French,Italian,German,Spanish - Spain,Japanese,Korean,Portuguese - Brazil,Simplified Chinese,Turkish,Action,Indie,NA,NA,NA
+905020,1,8,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,Simulation,NA
+694090,133,51,0,31,0,1999,1999,0,English,French,German,Japanese,Korean,Spanish - Latin America,NA,NA,NA,NA,Action,Adventure,NA,NA,NA
+921420,2,0,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Simulation,Strategy,NA,NA,NA
+718670,5292,1432,0,899,0,1999,1999,235,English,Simplified Chinese,Russian,German,Japanese,NA,NA,NA,NA,NA,Indie,RPG,Simulation,NA,NA
+790350,45,6,0,0,0,1499,1499,0,English,French,German,Japanese,Korean,Portuguese - Brazil,Simplified Chinese,Italian,Portuguese,Spanish - Latin America,Adventure,Casual,Indie,NA,NA
+878410,1,5,0,0,0,399,399,0,English,German,Simplified Chinese,Portuguese,Russian,NA,NA,NA,NA,NA,Action,NA,NA,NA,NA
+989010,1,2,0,0,0,3999,3999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Simulation,NA,NA
+747350,910,126,0,16,0,2999,2999,6,English,French,Italian,German,Spanish - Spain,Arabic,Danish,Dutch,Finnish,Japanese,Action,Adventure,Indie,NA,NA
+747360,438,83,0,536,0,0,0,2,English,German,Hungarian,Romanian,Russian,Spanish - Spain,Spanish - Latin America,Turkish,Ukrainian,NA,Adventure,Indie,NA,NA,NA
+812900,2,0,0,0,0,399,399,0,English,French,Italian,German,Spanish - Spain,Portuguese,NA,NA,NA,NA,Casual,Indie,NA,NA,NA
+835430,569,87,0,0,0,2499,2499,19,English,Japanese,Simplified Chinese,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+534370,890,353,0,550,0,1999,1999,14,English,French,Italian,German,Spanish - Spain,Czech,Polish,Russian,Hungarian,NA,Simulation,NA,NA,NA,NA
+925550,39,5,0,0,0,1499,1499,0,English,French,Italian,German,Hungarian,Russian,NA,NA,NA,NA,Racing,Simulation,Sports,NA,NA
+884590,1,5,0,0,0,399,399,0,English,Russian,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,Indie,Racing,Simulation
+565120,633,112,0,77,0,1499,1499,1,English,French,Spanish - Spain,Russian,Italian,German,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+866180,1,5,0,0,0,99,99,0,English,Portuguese - Brazil,Portuguese,French,German,Italian,Spanish - Spain,Arabic,Bulgarian,Czech,Adventure,Casual,Indie,NA,NA
+591750,78,8,0,0,0,1499,1499,0,English,Spanish - Spain,Simplified Chinese,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+872330,1,6,0,0,0,99,99,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,RPG,NA
+530320,2021,82,0,7,0,1999,1999,12,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+948120,1,14,0,0,0,99,99,0,English,German,Spanish - Spain,Traditional Chinese,Portuguese,Russian,NA,NA,NA,NA,Adventure,Indie,RPG,Simulation,NA
+753570,2,1,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,NA,NA,NA
+757670,2,1,0,0,0,899,899,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,NA,NA,NA,NA
+882600,1,1,0,0,0,499,499,0,English,Turkish,German,NA,NA,NA,NA,NA,NA,NA,Indie,Strategy,NA,NA,NA
+331690,989,246,0,345,0,1499,1499,7,English,Spanish - Spain,French,German,Portuguese - Brazil,Russian,Japanese,Korean,Simplified Chinese,Traditional Chinese,Action,Adventure,Indie,NA,NA
+765870,805,127,0,371,0,2999,2999,21,English,German,Russian,Polish,French,Italian,Spanish - Spain,NA,NA,NA,Adventure,NA,NA,NA,NA
+911280,0,2,0,0,0,299,299,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+626610,746,314,0,114,0,3999,3999,15,English,French,Italian,German,Spanish - Spain,Simplified Chinese,Traditional Chinese,Korean,Polish,Portuguese - Brazil,Racing,Simulation,NA,NA,NA
+927670,1,0,0,0,0,99,99,0,English,French,Italian,German,Spanish - Spain,Arabic,Bulgarian,Czech,Danish,Dutch,Casual,Indie,NA,NA,NA
+970680,0,4,0,0,0,499,499,0,English,Simplified Chinese,Russian,German,NA,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+468920,3444,443,0,1109,356,1999,1999,122,English,French,Italian,German,Spanish - Spain,Polish,Russian,Turkish,Portuguese,Simplified Chinese,Casual,Simulation,Sports,NA,NA
+759740,3038,682,0,732,0,3999,3999,123,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Spanish - Latin America,Simplified Chinese,Japanese,NA,Racing,Simulation,Sports,NA,NA
+956350,2,0,0,0,0,199,199,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,Strategy,NA
+690120,88,16,0,0,0,0,0,0,English,French,Italian,German,Spanish - Spain,Portuguese - Brazil,Japanese,Simplified Chinese,Polish,Russian,Adventure,Casual,Indie,NA,NA
+878540,0,2,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Simulation,NA,NA,NA,NA
+849870,0,3,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Indie,NA,NA
+589780,6054,379,0,185,0,1499,1499,17,English,French,German,Spanish - Spain,Japanese,Portuguese - Brazil,Russian,Simplified Chinese,Traditional Chinese,NA,Adventure,Indie,NA,NA,NA
+755670,41,7,0,735,0,1499,1499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Indie,Strategy,NA,NA
+874460,103,38,0,0,0,2499,2499,0,English,French,Italian,German,Spanish - Spain,NA,NA,NA,NA,NA,Action,Indie,RPG,Strategy,NA
+716770,44,15,0,0,0,1299,1299,0,English,Polish,French,Italian,German,Spanish - Spain,Simplified Chinese,Traditional Chinese,NA,NA,Indie,Strategy,NA,NA,NA
+626660,121,11,0,0,0,1999,1999,0,English,French,Italian,German,Spanish - Spain,NA,NA,NA,NA,NA,Adventure,Indie,NA,NA,NA
+866280,0,12,0,0,0,399,399,0,English,Russian,German,Simplified Chinese,Portuguese,NA,NA,NA,NA,NA,Action,Indie,NA,NA,NA
+368620,1411,224,0,538,0,1999,1999,6,English,French,German,Spanish - Spain,Japanese,Portuguese - Brazil,Russian,Simplified Chinese,NA,NA,Action,Adventure,Indie,RPG,NA
+897010,2,0,0,0,0,999,999,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Adventure,Casual,NA,NA,NA
+876540,1,1,0,0,0,499,499,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Casual,Indie,NA,NA
+847870,2,1,0,0,0,0,0,0,English,NA,NA,NA,NA,NA,NA,NA,NA,NA,Action,Adventure,Casual,Indie,Racing
