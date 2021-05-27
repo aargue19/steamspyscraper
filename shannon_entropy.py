@@ -1,5 +1,5 @@
-# import pandas as pd
-# import scipy.stats
+import pandas as pd
+import scipy.stats
 import sys
 
 #!/usr/bin/env python
@@ -12,24 +12,22 @@ import sys
 
 
 
-def sdi(data):
+# def sdi(data):
     
-    from math import log as ln
+#     from math import log as ln
     
-    def p(n, N):
+#     def p(n, N):
         
-        if n is 0:
-            return 0
-        else:
-            return (float(n)/N) * ln(float(n)/N)
+#         if n is 0:
+#             return 0
+#         else:
+#             return (float(n)/N) * ln(float(n)/N)
             
-    N = sum(data.values())
+#     N = sum(data.values())
     
-    return -sum(p(n, N) for n in data.values() if n != 0)
+#     return -sum(p(n, N) for n in data.values() if n != 0)
 
-print(sdi({'a': 10, 'b': 20, 'c': 30,}))
-
-
+# print(sdi({'a': 10, 'b': 20, 'c': 30,}))
 
 
 
@@ -39,15 +37,17 @@ print(sdi({'a': 10, 'b': 20, 'c': 30,}))
 
 
 
-# data = [1,2,2,3,3,3]
 
-# pd_series = pd.Series(data)
 
-# counts = pd_series.value_counts()
+data = [1,2,2,3,3,3]
 
-# entropy = scipy.stats.entropy(counts)
+pd_series = pd.Series(data)
 
-# print(entropy)
+counts = pd_series.value_counts()
+
+entropy = scipy.stats.entropy(counts)
+
+print(entropy)
 
 
 
