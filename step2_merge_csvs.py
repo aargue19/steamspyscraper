@@ -5,7 +5,7 @@ import datetime
 from os import listdir
 from os import getcwd
 
-# THIS DATA COMES FROM "https://steamdb.info/tags/"
+# THE DATA FOR "tag_names_codes_counts.csv" COMES FROM "https://steamdb.info/tags/"
 # I SAVED THE RAW SOURCE AS "steamdb_tag_codes_raw.txt"
 # I used "step0_get_tag_codes.py" to make "tag_names_codes_counts.csv" which is a list of ALL CODES+totals FOR ALL TAGS
 
@@ -63,10 +63,11 @@ for col_name in data.columns:
 
 df1["app_name"] = list_of_gamez[0]
 
-#LOAD THE FILE WITH 2018 GAME DETAILS AND APPEND DETAILS OF THE CURRENT GAME TO EACH LINE OF THE DATAFRAME
+#MATCH THE RECORDS BASED ON THE APP NAME TO OTHER GAME DETAILS FROM LIST OF ALL GAMES IN THAT YEAR AND APPEND DETAILS OF THE CURRENT GAME TO EACH LINE OF THE DATAFRAME
 
-df = pd.read_csv('steamspy_2018_games_clean.csv')
-df = df.loc[~df.app_name.str.contains("<U+"),:]
+# df = pd.read_csv('steamspy_2018_games_clean.csv')                                 #THIS IS FOR THE 2018 GAMES
+df = pd.read_csv('steamspy_2017_games_clean.csv')
+#df = df.loc[~df.app_name.str.contains("<U+"),:]
 
 #LOAD THE LIST OF EX EARLY ACCESS GAMES AND REMOVE THEM FROM THE DATAFRAME
 ex_ea_games = pd.read_csv("ex_early_access_games.csv")
@@ -81,7 +82,7 @@ mgd_df = pd.merge(line_for_merge,df1, on="app_name")
 
 final_df = mgd_df
 
-final_df.to_csv("test_2222.csv")
+#final_df.to_csv("test_2222.csv")
 
 # #DO THE SAME FOR ALL OTHER FILES AND APPEND THEM TO THE FINAL DATAFRAME
 
@@ -119,6 +120,19 @@ for i in range(1,len(list_of_gamez)):
     mgd_df = pd.merge(line_for_merge,df1, on="app_name")
 
     final_df = final_df.append(mgd_df, ignore_index=True)
+
+
+# THERE ARE SOME WEIRD COLUMNS THAT YOU MAY NEED TO GET RID OF
+#ORIGINALLY YOU DID THIS IN STEP 5 BUT YOU SHOULD DO IT HERE IF THEY COME UP
+
+cols_to_drop = ['tag_999999','t6_tag_999999','tag_5144','t6_tag_5144','tag_1694','t6_tag_1694','tag_134316','t6_tag_134316']
+
+for col_name in cols_to_drop:
+    try:
+        final_df = final_df.drop(f'{col_name}', 1)
+    except Exception as e:
+        print(e)
+
 
 #WHEN FINISHED WRITE TO FILE
 

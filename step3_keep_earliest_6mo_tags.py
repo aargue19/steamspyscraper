@@ -23,8 +23,6 @@ df['tag_before_release'] = np.where(df['release_date']>df['tag_date'], "yes", "n
 
 # df['tag_before_release'] = np.where(df['release_date']>df['tag_date'], "yes", "no")
 
-
-
 #MAKE A SUBSET OF JUST THE EARIEST RECORD OF TAGS
 
 games_with_producer_tags = []
@@ -54,34 +52,30 @@ for current_id in games_with_producer_tags[1:len(games_with_producer_tags)]:
         print(current_id)
         break
 
-cols = full_df.columns.tolist()
-
-# print(len(cols))
-
-# xxxx = []
-
-# for cnum in range(len(cols)):
-#     xxxx.append(cols[cnum])
-
-# print(xxxx)
 
 #EXCLUDE COLUMN # 444 WHICH iS THE GAME_BEFORE_RELEASE COL
 
+# xxxx = []
+# for cnum in range(len(cols)):
+#     xxxx.append([cnum,cols[cnum]])
+# print(xxxx)
+# print(len(cols))
+# print("\n")
+# print("\n")
+
+cols = full_df.columns.tolist()
 myorder = [0,1,2,3,4,5,6,7,8,9,10,11,12,438]
-myorder = myorder + list(np.arange(13,438,1)) + [440,441,442,443,439]
+myorder = myorder + list(np.arange(13,438,1)) + [439,440]
 mylist = [cols[i] for i in myorder]
 full_df = full_df[mylist]
 
-# cols = full_df.columns.tolist()
-
+# xxxx = []
+# for cnum in range(len(cols)):
+#     xxxx.append([cnum,cols[cnum]])
+# print(xxxx)
 # print(len(cols))
 
-# yyyy = []
 
-# for cnum in range(len(cols)):
-#     yyyy.append(cols[cnum])
-
-# print(yyyy)
 
 full_df.to_csv("step3_earliest_tags.csv",index=False)
 
@@ -89,11 +83,14 @@ full_df.to_csv("step3_earliest_tags.csv",index=False)
 # GAMES WITH NO TAGS AFTER 6 MONTHS:
 # GOOD GIRL (1 MO)
 
-df1 = full_df
-df2 = df.loc[:, df.columns != 'tag_before_release']
+df1 = df
 
-df2 = df2.loc[df2.app_id.isin(df1.app_id) ]
+df2 = df1.drop(['tag_before_release'], axis=1)
 
+# df2 = df1.loc[:, df1.columns != 'tag_before_release']
+
+df2 = df2.loc[df2.app_id.isin(df1.app_id)]                          ####THIS IS NOT WORKING AND THE TAG_BEFORE_RELEASE DOESNT ACTUALLY GET REMOVED
+                                                                    ####BUT YOU CHANGE THE CODE IN STEP4 TO REMOVE IT SO IT GETS DROPPED LATER
 # convert the 'Date' column to datetime format
 df2['release_date']= pd.to_datetime(df2['release_date'])
 df2['tag_date']= pd.to_datetime(df2['tag_date'])
@@ -103,11 +100,13 @@ df2['tag_date']= pd.to_datetime(df2['tag_date'])
 df2['nb_months'] = ((df2.tag_date - df2.release_date)/np.timedelta64(1, 'M'))
 df2['nb_months'] = df2['nb_months'].astype(int)
 
+# df2.to_csv("test2222.csv")
+
 full_df2 = pd.DataFrame(columns=df2.columns)
 
 ids_to_check = list(set(df2['app_id'].tolist()))
 
-# ## ONE GAME DOESNT HAVE TAGS AT 6 MONTHS SO REMOVE IT FROM THE DF
+# ## ONE GAME DOESNT HAVE TAGS AT 6 MONTHS SO REMOVE IT FROM THE DF                     #### HOW DID YOU CHECK FOR THIS???????
 # #875230
 # I REMOVED THE GAME FROM THE CSVS FOLDER INSTEAD
 # CAN USE THIS IF THERE ARE MULTIPLE GAMES THOUGH
@@ -120,13 +119,15 @@ for current_id in ids_to_check:
 
     counter += 1
 
-    current_idx = df2['tag_date'].loc[(df2['app_id'] == current_id) & (df2['nb_months'] == 6)].idxmin()
+    try:
+        current_idx = df2['tag_date'].loc[(df2['app_id'] == current_id) & (df2['nb_months'] == 6)].idxmin()
 
-    temp_df = df2.loc[df2.index == current_idx,:]
+        temp_df = df2.loc[df2.index == current_idx,:]
 
-    full_df2 = pd.concat([full_df2, temp_df], ignore_index=True, sort=False)
-
-
+        full_df2 = pd.concat([full_df2, temp_df], ignore_index=True, sort=False)
+    
+    except Exception as e:
+        print(current_id)
 
 # REORDER THE COLUMNS OF THE 6MO DF SO ALL TAG CODES ARE AT THE END
 # THIS IS SO RENAMING THEM IS EASIER
@@ -141,7 +142,7 @@ cols = full_df2.columns.tolist()
 
 ## THE COLUMN WITH # OF MONTHS BETWEEN RELEASE DATE AND TAG DATE IS DROPPED
 myorder = [0,1,2,3,4,5,6,7,8,9,10,11,12,438]
-myorder = myorder + list(np.arange(13,438,1)) + [440,441,442,443,439]
+myorder = myorder + list(np.arange(13,438,1)) + [439,440]
 mylist = [cols[i] for i in myorder]
 full_df2 = full_df2[mylist]
 
@@ -161,6 +162,10 @@ full_df2 = full_df2[mylist]
 
 full_df2.to_csv("step3_tags_after_6_mo.csv", index=False)
 
+
+
+
+
 ###########################################################################################################
 
 ## MERGE THE TWO DATAFRAMES OF EARLIEST AND 6MO TAGS ?????????
@@ -172,9 +177,8 @@ full_df2.to_csv("step3_tags_after_6_mo.csv", index=False)
 
 
 
-
-
-
+###########################################################################################################
+# UNUSED CODE
 
 
 

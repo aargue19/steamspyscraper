@@ -27,15 +27,15 @@ mgd_df.drop(mgd_df.filter(regex='_y').columns, axis=1, inplace=True)
 
 print(len(mgd_df.columns))
 
-## SOME TAGS ARE MISSPELT OR DONT EXIST ANYMORE SO REMOVE THEM
-mgd_df = mgd_df.drop('tag_999999', 1)
-mgd_df = mgd_df.drop('t6_tag_999999', 1)
-mgd_df = mgd_df.drop('tag_5144', 1)
-mgd_df = mgd_df.drop('t6_tag_5144', 1)
-mgd_df = mgd_df.drop('tag_1694', 1)
-mgd_df = mgd_df.drop('t6_tag_1694', 1)
-mgd_df = mgd_df.drop('tag_134316', 1)
-mgd_df = mgd_df.drop('t6_tag_134316', 1)
+## SOME TAGS ARE MISSPELT OR DONT EXIST ANYMORE SO REMOVE THEM ### YOU DON"T NEED TO DO THIS ANYMORE B/C YOU DID IT IN STEP 2
+#mgd_df = mgd_df.drop('tag_999999', 1)
+#mgd_df = mgd_df.drop('t6_tag_999999', 1)
+#mgd_df = mgd_df.drop('tag_5144', 1)
+#mgd_df = mgd_df.drop('t6_tag_5144', 1)
+#mgd_df = mgd_df.drop('tag_1694', 1)
+#mgd_df = mgd_df.drop('t6_tag_1694', 1)
+#mgd_df = mgd_df.drop('tag_134316', 1)
+#mgd_df = mgd_df.drop('t6_tag_134316', 1)
 
 # mgd_df.drop(mgd_df.filter(regex='999999').columns, axis=1, inplace=True)
 # mgd_df.drop(mgd_df.filter(regex='5144').columns, axis=1, inplace=True)
