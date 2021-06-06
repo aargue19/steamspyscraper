@@ -94,19 +94,24 @@ start = time.time()
 #4509-4658
 #4659-4956
 #4957-5106
-#5107-5153   #5154 ###### this game had no id in data so i added it manuALLY
+#5107-5153   #5154 had no id in data so i added it manuALLY (it got messed up when I used regex to parse raw data)
 #5154-5256
-
-
+#5257-5406
+#5407-5557
+#5558-5707
+#5708-5856
+#5708-6004
+#6005-6147
+#6148-6229
 
 #UPDATE THIS TO KEEP TRACK OF WHERE YOU STARTED THE LAST RUN
 # Running now....
-#5257
+#6230
 
-start_num = 5257
+start_num = 6230
 
 # HERE YOU CAN CHOOSE WHAT RANGE OF GAMES YOU WANT TO SCRAPE DATA FOR
-gamez = gamez_df.loc[start_num:start_num+500, "app_id"].tolist()
+gamez = gamez_df.loc[start_num:start_num+50, "app_id"].tolist()
 
 # OPEN A LOGFILE TO TRACK ANY GAMES THAT DIDN'T GET SCRAPED
 logf = open("step1_failed_scrapes.txt", "a")
@@ -504,9 +509,9 @@ for current_app_id in gamez:
         else:
             fail_count+=1
 
-for i in range(6):
-    beepy.beep(4)
-# beepy.beep(1)
+# for i in range(2):
+#     beepy.beep(6)
+beepy.beep(6)
 # beepy.beep(1)
 # beepy.beep(1)
 # CLOSE BROWSER
